@@ -48,7 +48,7 @@ Core Features
 
 * Create, edit and export spatial data using:
 
-  * digitizing tools for GRASS and shapefile formats
+  * digitizing tools for vector formats: shapefile, GeoPackage, PostGIS, SpatiaLite, GRASS...
   * the georeferencer plugin
   * GPS tools to import and export GPX format, convert other GPS formats to GPX, or down/upload directly to a GPS unit
 
