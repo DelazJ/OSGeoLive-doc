@@ -27,39 +27,40 @@ Core Features
 
 * Friendly graphical user interface:
 
-    * identify/select features
-    * edit/view/search attributes
-    * on the fly projection
-    * print composer
-    * feature labeling
-    * change vector and raster symbology
-    * add a graticule layer
-    * and more ...
+  * identify/select features
+  * edit/view/search attributes
+  * on the fly projection
+  * print layout
+  * feature labeling
+  * change vector and raster symbology
+  * add a graticule layer
+  * and more ...
 
 * Easy Viewing of many Vector and Raster Formats
 
-    * database tables: PostgreSQL/PostGIS, Oracle Spatial, MS SQL Spatial, SpatiaLite
-    * most vector formats: including ESRI shapefiles, MapInfo, SDTS and GML, OpenStreetMap vectors
-    * raster formats such as digital elevation models, aerial photography or landsat imagery
-    * GRASS locations and mapsets
-    * online spatial data served as OGC-compliant WMS, WMTS, WFS or WCS
-    * 2.5D rendering support
+  * database tables: PostgreSQL/PostGIS, GeoPackage, Oracle Spatial, MS SQL Spatial, SpatiaLite
+  * most vector formats: including ESRI shapefiles, MapInfo, SDTS and GML, OpenStreetMap vectors
+  * raster formats such as digital elevation models, aerial photography or landsat imagery
+  * mesh formats such as NetCDF, GRIB, DAT
+  * GRASS locations and mapsets
+  * online spatial data served as OGC-compliant WMS, WMTS, WFS or WCS
+  * 2.5D and 3D rendering support
 
 * Create, edit and export spatial data using:
 
-    * digitizing tools for GRASS and shapefile formats
-    * the georeferencer plugin
-    * GPS tools to import and export GPX format, convert other GPS formats to GPX, or down/upload directly to a GPS unit
+  * digitizing tools for GRASS and shapefile formats
+  * the georeferencer plugin
+  * GPS tools to import and export GPX format, convert other GPS formats to GPX, or down/upload directly to a GPS unit
 
-* Perform spatial analysis using integrated support for SAGA, OTB, MMGIS and GRASS
+* Perform spatial analysis using native tools and integrated support for SAGA, OTB and GRASS
 
-    * map algebra
-    * terrain analysis
-    * hydrologic modeling
-    * network analysis
-    * comprehensive searchable toolbox of functions
-    * define and run reusable analysis routines by chaining functions using a graphical modelling tool
-    * and many others
+  * map algebra
+  * terrain analysis
+  * hydrologic modeling
+  * network analysis
+  * comprehensive searchable toolbox of functions
+  * define and run reusable analysis routines by chaining functions using a graphical modelling tool
+  * and many others
 
 * Publish to the internet
 * Extensible plugin architecture
@@ -72,7 +73,7 @@ Implemented Standards
 Details
 --------------------------------------------------------------------------------
 
-**Website:** http://www.qgis.org
+**Website:** https://www.qgis.org
 
 **Licence:** GNU General Public License (GPL) version 2
 
@@ -80,9 +81,9 @@ Details
 
 **Supported Platforms:** Windows, Linux, Mac, Unix
 
-**Community Support:** http://qgis.org/en/site/forusers/support.html
+**Community Support:** https://qgis.org/en/site/forusers/support.html
 
-**Commercial Support:** http://qgis.org/en/site/forusers/commercial_support.html
+**Commercial Support:** https://qgis.org/en/site/forusers/commercial_support.html
 
 
 @QUICKSTART_qgis@
